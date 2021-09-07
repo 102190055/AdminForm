@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\obj\Debug\AdminForm2.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\obj\Debug\AdminForm2.Properties.Resources.resources
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\obj\Debug\AdminForm2.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\obj\Debug\AdminForm2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\bin\Debug\AdminForm2.exe.config
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\bin\Debug\AdminForm2.exe
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\bin\Debug\AdminForm2.pdb
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\obj\Debug\AdminForm2.exe
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\obj\Debug\AdminForm2.pdb
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\obj\Debug\QLSV1.Form1.resources
+C:\Users\ACER\source\repos\AdminForm2\AdminForm2\obj\Debug\QLSV1.Form2.resources
